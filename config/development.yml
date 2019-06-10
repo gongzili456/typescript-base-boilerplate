@@ -1,0 +1,13 @@
+database:
+  host: 
+  port: 5432
+  database: 
+  dialect: 
+  username: 
+  password:
+aws:
+  region: cn-north-1
+  accessKeyId: 
+  secretAccessKey:
+  bucket: 
+  fileServer: https://s3.cn-north-1.amazonaws.com.cn
