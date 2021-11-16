@@ -39,7 +39,7 @@
     "typescript": "^3.4.5"
   },
   "dependencies": {
-    "aws-sdk": "^2.302.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.18.0",
     "boom": "^7.2.0",
     "busboy": "^0.3.0",
